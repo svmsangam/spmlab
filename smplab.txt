@@ -1,1 +1,1 @@
-This is spm lap report sample for github
+This is spm lap report sample for github.Git pull, push and clone operation.
