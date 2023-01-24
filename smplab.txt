@@ -1,1 +1,2 @@
-This is spm lap report sample for github.Git pull, push and clone operation.
+This is spm lap report sample for github.Git pull, push and clone operation. Merge change
+
